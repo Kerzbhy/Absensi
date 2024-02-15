@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171309898968",
+    "project_id": "abensi-adi",
+    "storage_bucket": "abensi-adi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171309898968:android:438beeaacfdb4f7b73cbad",
+        "android_client_info": {
+          "package_name": "com.adi.absensi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReho3yZIV_Ti1rsKdIS77tHAjyH3P5wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
